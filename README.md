@@ -6,3 +6,5 @@
 * compilarconintro.bat : Igual que el anterior pero puedes introducir la etiqueta con la que quieres que comience el programa
 * compilaryemulador.bat : Nada más compilar ejecuta el emulador
 * emulador.bat : Abre el emulador
+
+Por defecto para todos el archivo de código es filtror21.ens y el compilado es filtror21.bin
